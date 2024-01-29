@@ -4,7 +4,6 @@
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
   <div>test2</div>
-  <div>test1</div>
 </template>
 
 <script>
