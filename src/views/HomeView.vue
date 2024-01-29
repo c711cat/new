@@ -5,7 +5,7 @@
   </div>
   <div>test2</div>
   <div>test1</div>
-  <div>test3 test3</div>
+  <div>test3 test3 test3</div>
 </template>
 
 <script>
