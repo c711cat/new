@@ -13,6 +13,7 @@
   <div>new123</div>
   <div>new2111</div>
   <div>new1</div>
+  <div>reset</div>
 </template>
 
 <script>
