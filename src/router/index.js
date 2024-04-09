@@ -16,6 +16,10 @@ const routes = [
     path: "/hello",
     component: () => import("@/components/Hello.vue"),
   },
+  {
+    path: "/yes",
+    component: () => import("@/components/Yes.vue"),
+  },
 ];
 
 const router = createRouter({
