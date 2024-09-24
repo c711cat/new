@@ -20,6 +20,10 @@ const routes = [
     path: "/yes",
     component: () => import("@/components/Yes.vue"),
   },
+  {
+    path: "/test",
+    component: () => import("@/components/Test.vue"),
+  },
 ];
 
 const router = createRouter({
