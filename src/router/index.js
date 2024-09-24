@@ -28,6 +28,10 @@ const routes = [
     path: "/test2",
     component: () => import("@/components/Test2.vue"),
   },
+  {
+    path: "/test3",
+    component: () => import("@/components/Test3.vue"),
+  },
 ];
 
 const router = createRouter({
